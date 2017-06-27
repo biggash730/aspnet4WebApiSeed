@@ -68,4 +68,4 @@ Asp.Net WebAPI Seed Project. This project is created from the base ASP.NET 4.5.2
 + Startup.cs
 + Web.config
 
-*This is a fork of https://github.com/adjeteyadjei/aspnet4-webapi-seed
+This is a fork of https://github.com/adjeteyadjei/aspnet4-webapi-seed
